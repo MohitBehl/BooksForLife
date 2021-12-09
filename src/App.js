@@ -11,7 +11,7 @@ const dataBase = {
     "Code of Extraordinary Mind": "4.5/5"
   },
   algo: {
-    "Cormen-DSA": "5/5",
+    "Cormen-DS": "5/5",
     "Algorithm Design": "4.5/5"
   }
 };
